@@ -40,9 +40,9 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Junyi-99/Claude-API-Leakage
+    https://github.com/rfrlcode/Anthropic-API-Scanner
 
-    cd Claude-API-Leakage
+    cd Anthropic-API-Scanner
     ```
 
 2. Install required pypi packages
